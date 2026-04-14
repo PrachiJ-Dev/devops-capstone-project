@@ -11,4 +11,4 @@ This project is a Customer Accounts Microservice built as part of the DevOps Cap
 
 ## CI/CD Status
 
-![Build Status](https://github.com/YOUR-USERNAME/customer-accounts-service/actions/workflows/ci-build.yml/badge.svg)
+![Build Status](https://github.com/PrachiJ-Dev/devops-capstone-project/actions/workflows/ci-build.yml/badge.svg)
